@@ -1,0 +1,4 @@
+github.com/mattn/go-sqlite3 v1.14.16 h1:yOQRA0RpS5PFz/oikGwBEqvAWhWg5ufRz4ETLjwpU1Y=
+github.com/mattn/go-sqlite3 v1.14.16/go.mod h1:2eHXhiwb8IkHr+BDWZGa96P6+rkvnG63S2DGjv9HUNg=
+github.com/neo4j/neo4j-go-driver/v5 v5.4.0 h1:5uq+kGYS768hQJQR2RG3D0gEmlf6XiWdPZs1z1QjYaA=
+github.com/neo4j/neo4j-go-driver/v5 v5.4.0/go.mod h1:Vff8OwT7QpLm7L2yYr85XNWe9Rbqlbeb9asNXJTHO4k=
